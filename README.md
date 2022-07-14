@@ -1,8 +1,8 @@
 # Memories
 
-<!-- ![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png) -->
+<!-- ![Memories](https://github.com/saunvid321/Memories/blob/master/ss.png) -->
 <!-- ![Memories](https://github.com/saunvid321/Memories/blob/master/memories_ss.png) -->
-<img  src="https://github.com/saunvid321/Memories/blob/master/memories_ss.png" width="2000" height="575" />
+<img  src="https://github.com/saunvid321/Memories/blob/master/ss.png" width="2000" height="575" />
 
 ## Introduction
 
